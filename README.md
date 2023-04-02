@@ -5,10 +5,16 @@ Welcome to my personal profile website! This website is designed to showcase mys
 The website is divided into 3 pages, which can be accessed using the navigation bar at the top of the page. The pages include:
 
   Profile: The landing page, where it gives an introduction of me and what am I currently doing, this page also gives you more information about my personality based on 16 personality test [https://www.16personalities.com]
+  
+  ![alt text](https://github.com/Fukanzen/Personal-profile-Website/blob/master/ScreenShot/1.png?raw=true)
 
   Hobbies: This page highlights my activites during free times, and what I'm interested in.
   
+  ![alt text](https://github.com/Fukanzen/Personal-profile-Website/blob/master/ScreenShot/2.png?raw=true)
+  
   Contact: Here you'll find my contact information, as well as a form that you can use to get in touch with me.
+  
+  ![alt text](https://github.com/Fukanzen/Personal-profile-Website/blob/master/ScreenShot/3.png?raw=true)
 
 Design:
 
