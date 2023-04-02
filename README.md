@@ -12,7 +12,7 @@ The website is divided into 3 pages, which can be accessed using the navigation 
   
   ![alt text](https://github.com/Fukanzen/Personal-profile-Website/blob/master/ScreenShot/2.png?raw=true)
   
-  Contact: Here you'll find my contact information, as well as a form that you can use to get in touch with me.
+  Contact: Here you'll find my contact information.
   
   ![alt text](https://github.com/Fukanzen/Personal-profile-Website/blob/master/ScreenShot/3.png?raw=true)
 
