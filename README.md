@@ -21,6 +21,6 @@ The website is divided into 3 pages, which can be accessed using the navigation 
 
 Design:
 
-The website is designed to be chill and based on what my interest. I mainly focused on the dark blue, and used spaced theme images as the background to spice things up. The site isn't made responsive, so it's better to view it on desktop on 100% zoom display.
+The website is designed to be chill and based on what my interest. I mainly focused on the dark blue, and used space theme images as the background to spice things up. The site isn't made responsive, so it's better to view it on desktop on 100% zoom display.
 
 Thanks for visiting my personal profile website, and I hope you find the information here useful and informative!
